@@ -21,3 +21,5 @@ class MedicalState(TypedDict):
     
     # Final approval status
     approved: bool
+
+    revision_number: int
