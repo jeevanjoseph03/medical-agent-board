@@ -50,3 +50,4 @@ Run the simulation:
 ```bash
 python main.py
 ```
+.
